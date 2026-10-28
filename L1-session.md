@@ -2,14 +2,14 @@
 
 Date: 25/10/2026
 Build under test: https://with-bugs.practicesoftwaretesting.com (tab reads "Toolshop - v5.0 with bugs")
-Participants: Kudzai Mapfumo (KayJames196), Josiah Macherenga (MrJayZW), Norman Marohwa (NormanMa25), Tadiwanashe Musonza (TadiwanasheMusonza)
+Participants: Kudzai Mapfumo (KayJames196), Josiah Macherenga (MrJayZW), Norman Marowa (NormanMa25), Tadiwanashe Musonza (TadiwanasheMusonza)
 Time box: 40 minutes
 
 ## Charters
 
 - [Josiah Macherenga] Explore the customer account pages (account home, profile, favorites, invoices, messages) and the contact form, logged in as the demo customer, to discover data-display and validation problems.
 - [Kudzai Mapfumo] Explore the shopping cart by adding products, changing quantities, and removing items to discover cart-update and total-calculation problems.
-- [Norman Marohwa] Explore product browsing and category navigation to discover missing product information, incorrect category labels, and navigation problems.
+- [Norman Marowa] Explore product browsing and category navigation to discover missing product information, incorrect category labels, and navigation problems.
 - [Tadiwanashe Musonza] Explore the product detail page (Thor Hammer) by adding it to the cart more than once and using the quantity selector and the Add to favourites button to discover add-to-cart rule, error-message and layout problems.
 
 ## Product model (from step 1)
